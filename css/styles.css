@@ -110,7 +110,7 @@ body {
   color: #404bbf;
 }
 
-.underline::after {
+.active-btn::after {
   content: '';
   display: block;
   position: absolute;
